@@ -1,9 +1,16 @@
-# PIZZA ORDER MANAGEMENT SYSTEM
+# Pizza Order Management System
 
-## TECHNOLOGIES USED :
+## Description:
+-Pizza Order Management System is a standalone java application which is used to place the order for customers.Here customer can choose multiple items to order which i ncludes Pizza,Beverages and Cookie.
 
--JAVA
--MYSQL
+
+## Technology used :
+
+-Java
+-MySQL
 -JDBC
--LOGGERS
--JUNIT
+-Loggers
+-Junit
+
+
+
