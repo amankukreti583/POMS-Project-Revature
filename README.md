@@ -3,10 +3,10 @@
 ## Technology used :
 
 - Java
--MySQL
--JDBC
--Loggers
--Junit
+- MySQL
+- JDBC
+- Loggers
+- Junit
 
 ## Description:
 - Pizza Order Management System is a standalone java application.
